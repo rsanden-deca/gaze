@@ -1,0 +1,7 @@
+package common
+
+var RIEMANN_CONNECT_TIMEOUT_MILLIS uint = 50
+var RIEMANN_RETRY_DELAY_MILLIS uint = 200
+var RIEMANN_RETRY_ATTEMPTS uint = 100
+var QUEUE_LENGTH uint = 100000
+var POOL_SIZE uint = 1
