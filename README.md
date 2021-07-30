@@ -1,5 +1,5 @@
 # gaze
-Stare at a logfile (or stdin) and send each line to riemann wrapped in an event.
+Stare at a logfile (or stdin) and send each line to [riemann](https://riemann.io/) wrapped in an event.
 
 ### Features:
 ```
